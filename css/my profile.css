@@ -1,0 +1,33 @@
+body{
+	margin:0;
+	font-size: 1em;
+	text-align: center;
+}
+header{
+	color: white;
+	background-color: orange;
+	font-family: sans-serif;
+}
+.img{
+	image-position:center;
+	border-radius: 50%;
+}
+.top-header{
+	text-align: center;
+	margin: 10px 5px;
+	padding: 10px 5px;
+}
+.top-heading{
+	font-size: 90px;
+}
+.title{
+	font-size: 76px;
+}
+.primary-content{
+	width: 75%;
+	padding: 10px 5px;
+	margin: 10px 5px;
+}
+.main-footer{
+	border-bottom: 10px solid lightcoral;
+}
